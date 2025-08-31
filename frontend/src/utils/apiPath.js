@@ -1,4 +1,5 @@
-export const  BASE_URL= 'http://localhost:4000'
+// export const  BASE_URL= 'http://localhost:4000'
+export const BASE_URL= 'https://resume-builder-backend-mye2.onrender.com'
 
 
 export const API_PATHS= {
